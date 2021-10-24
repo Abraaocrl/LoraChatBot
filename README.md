@@ -2,7 +2,7 @@
 
 Projeto desenvolvido como teste técnico para a vaga de Pessoa Desenvolvedora na Take Blip.
 
-O repositório consiste do código da API, que se comunica com a API do github para trazer os 5 repositórios mais antigos de um usuário, assim como o fluxo conversacional do Bot. 
+O repositório consiste no código da API, que se comunica com a API do github para trazer os 5 repositórios mais antigos de um usuário, assim como o fluxo conversacional do Bot. 
 
 O fluxo foi desenvolvido na plataforma da Take Blip usando a ferramenta nativa já desenvolvida.
 
